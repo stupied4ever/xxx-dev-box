@@ -23,7 +23,6 @@ class archlinux::packages {
 
     'chromium',
     'flashplugin',
-    'skype',
 
     # Video player.
 

@@ -35,3 +35,6 @@ class { 'archlinux':
   stage => 'preinstall',
 }
 
+# Main Stage
+class { 'zsh': }
+class { 'vim': }

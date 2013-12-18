@@ -1,0 +1,4 @@
+manifests/vim/files/spell
+manifests/vim/files/bundle
+manifests/zsh/files
+code

@@ -36,6 +36,7 @@ class { 'archlinux':
 }
 
 # Main Stage
+class { 'ruby': }
 class { 'zsh': }
 class { 'vim': }
 class { 'tmux': }

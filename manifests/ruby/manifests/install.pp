@@ -15,7 +15,6 @@ define ruby::install(
     command => $command,
     creates => "/opt/rubies/$ruby-$version",
     timeout => 0,
-    require => Class['ruby::chruby'],
     user    => 'root',
     group   => 'root',
   }

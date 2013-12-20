@@ -39,3 +39,4 @@ class { 'archlinux':
 class { 'zsh': }
 class { 'vim': }
 class { 'tmux': }
+class { 'git': }

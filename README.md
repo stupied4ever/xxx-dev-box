@@ -7,7 +7,7 @@ provise my machine configurations, such [vim][vim], [tmux][tmux],
 
 ## Environment
 
-Currently my environment uses [Arch Linux][arch-linux] with [Xfce][xfce]
+Currently my environment is an [Arch Linux][arch-linux] with [Xfce][xfce]
 as [Desktop Environment][desktop-environment] and [SLiM][slim] as
 [Display manager][display-manager].
 

@@ -16,6 +16,6 @@ pacman -Syu --noconfirm
 pacman -S git --noconfirm
 SCRIPT
 
-git clone git://github.com/leafac/dev-box.git
+git clone git://github.com/stupied4ever/dev-box.git
 
-(cd dev-box && mkdir code && exec scripts/install.sh)
+(cd dev-box && mkdir workspace && exec scripts/install.sh)

@@ -38,3 +38,4 @@ class { 'archlinux':
 # Main Stage
 class { 'zsh': }
 class { 'vim': }
+class { 'tmux': }

@@ -24,6 +24,10 @@ class archlinux::packages {
     'chromium',
     'flashplugin',
 
+    # Command Line Tools
+
+    'httpie',
+
     # Video player.
 
     'vlc',

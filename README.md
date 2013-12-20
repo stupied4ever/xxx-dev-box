@@ -2,7 +2,7 @@
 
 Here I will store all my scripts to automate my dev machine. Many of them was
 inspired by [leafac/dev-box][leafac-dev-box]. It uses [puppet][puppet] to
-provise my machine cinfigurations, such [vim][vim], [tmux][tmux],
+provise my machine configurations, such [vim][vim], [tmux][tmux],
 [ruby][ruby], [git][git], [zsh][zsh] and [oh-my-zsh][oh-my-zsh] configurations.
 
 ## Environment

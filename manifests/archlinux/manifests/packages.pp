@@ -40,5 +40,9 @@ class archlinux::packages {
 
     'deluge',
 
+    #Programming Languages
+    'python',
+    'python-pip',
+
   ]: }
 }

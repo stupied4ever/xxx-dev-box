@@ -36,5 +36,9 @@ class archlinux::packages {
 
     'ntp',
 
+    # Torrent Clients
+
+    'deluge',
+
   ]: }
 }

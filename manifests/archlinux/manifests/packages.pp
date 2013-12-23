@@ -40,9 +40,12 @@ class archlinux::packages {
 
     'deluge',
 
-    #Programming Languages
+    # Programming Languages
     'python',
     'python-pip',
+
+    # DBs
+    'mongodb',
 
   ]: }
 }

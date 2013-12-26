@@ -8,7 +8,7 @@ class archlinux::packages {
     'ttf-bitstream-vera',
 
     # PDF viewer
-    'xournal',
+    'evince',
 
     # Compression tools.
 

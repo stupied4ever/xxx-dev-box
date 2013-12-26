@@ -13,6 +13,7 @@ class archlinux::packages {
     'unzip',
     'unrar',
     'p7zip',
+    'rar',
 
     # Network management.
 

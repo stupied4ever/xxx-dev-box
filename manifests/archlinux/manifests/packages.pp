@@ -30,6 +30,9 @@ class archlinux::packages {
     'httpie',
     'ack',
 
+    # Cloud files clients
+    'seafile',
+
     # Video player.
 
     'vlc',

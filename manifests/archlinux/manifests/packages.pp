@@ -7,6 +7,9 @@ class archlinux::packages {
     'ttf-ms-fonts',
     'ttf-bitstream-vera',
 
+    # PDF viewer
+    'xournal',
+
     # Compression tools.
 
     'zip',

@@ -1,3 +1,4 @@
 manifests/vim/files/bundle
+manifests/vim/files/spell
 manifests/zsh/files
 workspace

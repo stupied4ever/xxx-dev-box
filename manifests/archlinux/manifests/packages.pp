@@ -28,6 +28,7 @@ class archlinux::packages {
     # Command Line Tools
 
     'httpie',
+    'ack',
 
     # Video player.
 

@@ -8,6 +8,7 @@ class archlinux::packages {
     'ttf-bitstream-vera',
 
     # PDF viewer
+
     'evince',
 
     # Compression tools.
@@ -34,6 +35,7 @@ class archlinux::packages {
     'ack',
 
     # Cloud files clients
+
     'seafile',
 
     # Video player.
@@ -49,11 +51,17 @@ class archlinux::packages {
     'deluge',
 
     # Programming Languages
+
     'python',
     'python-pip',
 
     # DBs
+
     'mongodb',
+
+    # Disk Utilities
+
+    'gparted',
 
   ]: }
 }

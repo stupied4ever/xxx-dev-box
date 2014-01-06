@@ -63,5 +63,9 @@ class archlinux::packages {
 
     'gparted',
 
+    # Screenshot
+
+    'shutter',
+
   ]: }
 }

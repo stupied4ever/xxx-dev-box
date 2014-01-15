@@ -67,5 +67,9 @@ class archlinux::packages {
 
     'shutter',
 
+    # Development tools
+
+    'ruby-heroku',
+
   ]: }
 }

@@ -41,3 +41,4 @@ class { 'zsh': }
 class { 'vim': }
 class { 'tmux': }
 class { 'git': }
+class { 'ack': }

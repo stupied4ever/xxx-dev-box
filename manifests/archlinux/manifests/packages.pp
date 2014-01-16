@@ -32,7 +32,6 @@ class archlinux::packages {
     # Command Line Tools
 
     'httpie',
-    'ack',
 
     # Cloud files clients
 

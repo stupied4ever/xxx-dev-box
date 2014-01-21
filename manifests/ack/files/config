@@ -8,5 +8,6 @@
 --ignore-dir=log
 --ignore-dir=tags
 --ignore-dir=tmp
+--ignore-dir=coverage
 
 --ignore-file=match:.log

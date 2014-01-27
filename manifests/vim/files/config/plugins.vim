@@ -32,3 +32,6 @@ Bundle 'SirVer/ultisnips'
 Bundle 'leafac/vim-custom-snippets'
 Bundle 'mileszs/ack.vim'
 Bundle 'Vladimiroff/vim-sparkup'
+
+Bundle 'compactcode/alternate.vim'
+Bundle 'compactcode/open.vim'

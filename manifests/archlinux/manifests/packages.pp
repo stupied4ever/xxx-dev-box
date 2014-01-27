@@ -28,6 +28,7 @@ class archlinux::packages {
 
     'chromium',
     'flashplugin',
+    'google-talkplugin',
 
     # Command Line Tools
 

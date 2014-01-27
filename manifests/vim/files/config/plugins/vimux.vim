@@ -22,10 +22,6 @@ map <leader>rx :VimuxClosePanes<cr>
 
 map <leader>rS :VimuxInterruptRunner<cr>
 
-" If text is selected, save it in the v buffer and send that buffer it to tmux
-
-vmap <leader>rs "vy :call VimuxRunCommand(@v)<cr>
-
 " Use nearest pane (not used by vim) if found instead of running split-window
 
 let VimuxUseNearestPane = 1

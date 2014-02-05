@@ -5,3 +5,4 @@
 "     "T"   : horizontal top (full screen width)
 "     "B"   : horizontal bottom (full screen width)
 let g:buffergator_viewport_split_policy = "B"
+let g:buffergator_display_regime        = "bufname"

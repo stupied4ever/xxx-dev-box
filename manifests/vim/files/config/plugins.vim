@@ -35,3 +35,4 @@ Bundle 'Vladimiroff/vim-sparkup'
 
 Bundle 'compactcode/alternate.vim'
 Bundle 'compactcode/open.vim'
+Bundle 'ngmy/vim-rubocop'

@@ -71,5 +71,9 @@ class archlinux::packages {
 
     'ruby-heroku',
 
+    # Dictionaries
+
+    'wtf',
+
   ]: }
 }

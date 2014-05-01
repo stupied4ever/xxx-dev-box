@@ -10,3 +10,5 @@
 	default = simple
 [hub]
 	protocol = https
+[pull]
+	rebase = true

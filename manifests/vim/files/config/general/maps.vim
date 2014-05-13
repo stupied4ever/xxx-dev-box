@@ -24,11 +24,3 @@ command! -bang WA wa<bang>
 command! -bang Q q<bang>
 command! -bang QA qa<bang>
 command! -bang Qa qa<bang>
-
-" Gambis para registradores funcionarem no mac
-noremap ä "a
-noremap ë "e
-noremap ü "u
-noremap ï "i
-noremap ö "o
-

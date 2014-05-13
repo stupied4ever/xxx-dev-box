@@ -24,3 +24,7 @@ command! -bang WA wa<bang>
 command! -bang Q q<bang>
 command! -bang QA qa<bang>
 command! -bang Qa qa<bang>
+
+" Run rubocop with <leader> r
+let g:vimrubocop_keymap = 0
+nmap <Leader>r :RuboCop<CR>

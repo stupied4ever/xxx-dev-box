@@ -11,7 +11,7 @@ set guifont=Monaco:h16
 syntax enable
 
 " Show line numbers
-set relativenumber
+set nu rnu
 
 " Encoding should be utf-8
 set encoding=utf-8

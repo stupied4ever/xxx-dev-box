@@ -1,11 +1,11 @@
 " Define <leader>
 let mapleader=','
 
-" Pussy movies, I just cant use hlkj :(
-nnoremap <Left> h
-nnoremap <Right> l
-nnoremap <Up> gk
-nnoremap <Down> gj
+" Disable arrows
+map <Left> <Nop>
+map <Right> <Nop>
+map <Up> <Nop>
+map <Down> <Nop>
 
 " Map to avoid hold shift to every command
 nnoremap ; :

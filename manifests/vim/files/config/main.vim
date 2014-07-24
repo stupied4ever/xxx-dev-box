@@ -18,3 +18,5 @@ source ~/.vim/config/plugins/vim-buffergator.vim
 source ~/.vim/config/plugins/vimux.vim
 source ~/.vim/config/plugins/vimux-ruby-test.vim
 source ~/.vim/config/plugins/alternate.vim
+source ~/.vim/config/plugins/splitjoin.vim
+

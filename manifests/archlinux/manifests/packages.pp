@@ -36,7 +36,7 @@ class archlinux::packages {
 
     # Cloud files clients
 
-    'seafile',
+    'seafile-client',
 
     # Video player.
 

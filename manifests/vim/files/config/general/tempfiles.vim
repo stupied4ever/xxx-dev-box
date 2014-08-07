@@ -10,14 +10,9 @@ set undolevels=1000
 " Maximum number lines to save for undo on a buffer reload
 set undoreload=10000
 
-" folders to store temp files and avoid cluttering the current directory
-set backupdir=~/.vimbackup//,/tmp
-set directory=~/.vimswap//,/tmp
-set viewdir=~/.vimviews//,/tmp
-set undodir=~/.vimundos//,/tmp
-
 " Create those directories if they don't exist already
-silent execute '!mkdir -p ~/.vimbackup'
-silent execute '!mkdir -p ~/.vimswap'
-silent execute '!mkdir -p ~/.vimviews'
-silent execute '!mkdir -p ~/.vimundos'
+silent execute '!mkdir -p ~/.vim/{backup_files,swap_files,undo_files}'
+
+set backupdir=~/.vim/backup_files//
+set directory=~/.vim/swap_files//
+set undodir=~/.vim/undo_files//
